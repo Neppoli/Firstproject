@@ -6,6 +6,8 @@ public class Overloading {
 System.out.println("Empname:"+name+"\n"+"Emp id:"+id+"\n"+"Emp phone"+phone);
 	}
 	public static void main(String[] args) {
+		String s="neppoli";
+		int a=20;
 		System.out.println("api");
 		System.out.println("selenium");
 		Overloading c= new Overloading();
